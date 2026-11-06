@@ -1,0 +1,6 @@
+sxs/*.cab
+sxs/*.Cab
+sxs/*.CAB
+*.cab
+Thumbs.db
+Desktop.ini
